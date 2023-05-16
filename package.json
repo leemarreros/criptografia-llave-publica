@@ -1,0 +1,27 @@
+{
+  "name": "criptografia-llave-publica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemarreros/criptografia-llave-publica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemarreros/criptografia-llave-publica/issues"
+  },
+  "homepage": "https://github.com/leemarreros/criptografia-llave-publica#readme",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "eth-crypto": "^2.6.0",
+    "ethers": "^6.3.0",
+    "generate-password": "^1.7.0",
+    "js-sha3": "^0.8.0"
+  }
+}
